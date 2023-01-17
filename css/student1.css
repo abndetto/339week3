@@ -1,0 +1,22 @@
+h1{
+    color:red;
+    border: solid 1px black;
+    border-width: 10px 2px;
+}
+h2{
+    color: navy;
+    background-color:beige;
+    font-size:small;
+    border: solid 2px navy;
+}
+body{
+    background-color:skyblue;
+}
+ul{text-align:center;
+    font-size:larger;
+}
+h3{
+    text-align: center;
+    font-style:oblique;
+    font-weight:400;
+}
